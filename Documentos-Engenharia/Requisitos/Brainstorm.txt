@@ -2,6 +2,7 @@ falta de lugar
 não sabe se esta pagando
 falta de controle
 apenas pagamento em dinheiro
+superlotação de carros
 
 ticket para gerenciar o tempo
 criar um controle de acesso para a entrada e saida de carros
