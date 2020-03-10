@@ -1,7 +1,7 @@
 falta de lugar
 não sabe se esta pagando
 falta de controle
-pagamento em dinheiro
+apenas pagamento em dinheiro
 
 ticket para gerenciar o tempo
 criar um controle de acesso para a entrada e saida de carros
